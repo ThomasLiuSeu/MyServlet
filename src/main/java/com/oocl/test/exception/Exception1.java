@@ -14,6 +14,7 @@ public class Exception1 implements MyException {
     public void run() {
         try {
             FileInputStream fis = new FileInputStream("D:\\123.txt");
+            int aaa = 123;
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
