@@ -7,4 +7,10 @@ package com.oocl.test.exception;
  * Time: 9:15 AM
  */
 public class ExceptionTest {
+    public static void main(String[] args) {
+        MyException e1 = new Exception1();
+        MyException e2 = new Exception2();
+        e1.run();
+        e2.run();
+    }
 }
