@@ -26,4 +26,11 @@ public class MyJunit {
             logger.debug("===============================================");
         }
     }
+
+    @Test
+    public void testArray() {
+        String aaa = "123";
+        String[] bbb = aaa.split(";");
+        System.out.println(bbb[1]);
+    }
 }
