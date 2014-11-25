@@ -12,20 +12,20 @@
     <file path="D:/MYIntelliJ/MyServlet4/web/WEB-INF/web.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1405041808982" ignored="false" />
     <file path="D:/MYIntelliJ/MyServlet4/src/com/oocl/servlet/Filter.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1405041808982" ignored="false" />
     <file path="/MyReverse.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408511810239" ignored="false" />
-    <file path="/a.dummy" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416364644421" ignored="false" />
+    <file path="/a.dummy" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416896773822" ignored="false" />
     <file path="/MyRegex.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408599880360" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/transaction/interfaces/iris/DSCTransaction.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408601754003" ignored="false" />
     <file path="/DSCTransaction.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413512430097" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/Application/dist/WLS_DOM_SPS/wls_dom_sps/WEB-INF/classes/mifReceiver.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408614516070" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/transaction/interfaces/joedi/JobAckScheduledTask.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408610502492" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_WebServer/Webjar/src/main/java/com/oocl/ir4/sps/web/controller/order/ladenorder/LadenOrderController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408610502492" ignored="false" />
-    <file path="/Dummy.txt" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416536858005" ignored="false" />
+    <file path="/Dummy.txt" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416805932240" ignored="false" />
     <file path="/pom.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413171963487" ignored="false" />
     <file path="/MyJunit.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1415586398405" ignored="false" />
     <file path="/ReadProperties.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412919273478" ignored="false" />
     <file path="/1.properties" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412911055049" ignored="false" />
     <file path="/welcome.html" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412920819489" ignored="false" />
-    <file path="/welcome.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412926106983" ignored="false" />
+    <file path="/welcome.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416901879744" ignored="false" />
     <file path="/allBiz.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413186281571" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/test/java/com/oocl/ir4/sps/service/rest/EECAcceptLevelTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413192762382" ignored="false" />
     <file path="/EECAcceptLevelTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412933660433" ignored="false" />
@@ -71,7 +71,14 @@
     <file path="/TypeInTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416530489457" ignored="false" />
     <file path="/uploadFile.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416541292387" ignored="false" />
     <file path="/UploadServlet.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416541451985" ignored="false" />
-    <file path="/web.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416533944955" ignored="false" />
+    <file path="/web.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416820246700" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SPPM_WebServer/War/js/com/oocl/ir4/sppm/web/js/payee/UpdatePayeeView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416796334450" ignored="false" />
+    <file path="/UpdatePayeeView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416795879398" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SPPM_WebServer/SPPM_WEB_Application/dist/WLS_PRS_SPPM/wls_prs_sppm/js/com/oocl/ir4/sppm/web/js/payee/UpdatePayeeView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416796661088" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SPPM_WebServer/SPPM_WEB_Application/dist/WLS_PRS_SPPM/wls_prs_sppm/WEB-INF/classes/jawr.properties" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416796911363" ignored="false" />
+    <file path="/jawr.properties" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416796909300" ignored="false" />
+    <file path="D:/Gerrit/tms_suppliersystem/SPPM_WebServer/War/js/com/oocl/ir4/sppm/web/js/payee/UpdatePayeeView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416805977476" ignored="false" />
+    <file path="/index.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416899684834" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,40 +93,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/oocl/test/MyRegex.java" line="277" class="com.oocl.test.MyRegex" package="com.oocl.test">
         <option name="ENABLED" value="true" />
@@ -219,7 +193,7 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java" line="107" class="com.oocl.test.UploadServlet" package="com.oocl.test">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java" line="106" class="com.oocl.test.UploadServlet" package="com.oocl.test">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -247,8 +221,55 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java" line="78" class="com.oocl.test.UploadServlet" package="com.oocl.test">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -259,39 +280,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="uploadFile.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/uploadFile.jsp">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="65" selection-start="335" selection-end="335" vertical-scroll-proportion="-5.193548">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="47" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UploadServlet.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="58" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.21655172">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiskFileItem.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/disk/DiskFileItem.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="-11.04">
+            <state line="11" column="32" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -300,25 +292,37 @@
       <file leaf-file-name="welcome.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="38" selection-start="817" selection-end="817" vertical-scroll-proportion="-3.548387">
+            <state line="8" column="47" selection-start="455" selection-end="455" vertical-scroll-proportion="-4.967742">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/LoginServlet.java">
+      <file leaf-file-name="allBiz.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/js/allBiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="603" selection-end="603" vertical-scroll-proportion="0.5315985">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <file leaf-file-name="ext-base-debug.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/ext/ext-base-debug.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="49" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1342073054000" expanded="false" signature="43737:43777" placeholder="..." />
+                <marker date="1342073054000" expanded="false" signature="43791:43804" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ext-all.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/ext/css/ext-all.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="11" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -342,9 +346,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/ReadProperties.java" />
-        <option value="$PROJECT_DIR$/web/welcome.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/exception/MyException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/exception/Exception2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/exception/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/exception/Exception1.java" />
@@ -353,11 +354,14 @@
         <option value="$PROJECT_DIR$/src/test/java/MyJunit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/excel/MyExportExcel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/TypeInTest.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/web/welcome.jsp" />
         <option value="$PROJECT_DIR$/web/uploadFile.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java" />
+        <option value="$PROJECT_DIR$/web/js/MyTplCombo.js" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/js/com/oocl/ir4/sps/framework/web/js/commonUI/form/ComboBox.js" />
+        <option value="$PROJECT_DIR$/web/js/index.js" />
+        <option value="$PROJECT_DIR$/web/welcome.jsp" />
       </list>
     </option>
   </component>
@@ -406,10 +410,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1272" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="958" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -464,7 +468,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -516,25 +519,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyServlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyServlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="132" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="OverrideImplement.combined" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="132" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="136" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="136" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/com/oocl/test/exception" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="133" />
@@ -550,8 +576,8 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
@@ -559,18 +585,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\MyServlet\web\js\ext\css" />
+      <recent name="D:\Code\MyServlet\web\js\ext" />
+      <recent name="D:\Code\MyServlet\web\js\com\oocl\ir4\sps\framework\web\js" />
       <recent name="D:\Code\MyServlet\web" />
       <recent name="D:\Code\MyServlet\web\js\require" />
-      <recent name="D:\Code\MyServlet\web\js\jQuery" />
-      <recent name="D:\Code\MyServlet\web\js\underscore" />
-      <recent name="D:\Gerrit\MyServlet5\web\js\ext" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\MyServlet\web\js\ext" />
+      <recent name="D:\Code\MyServlet\web\js\ext\css" />
       <recent name="D:\Gerrit\MyServlet5\web" />
     </key>
   </component>
@@ -737,6 +765,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -765,19 +806,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -800,6 +828,13 @@
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -819,13 +854,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
@@ -909,12 +937,12 @@
       </method>
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReadProperties" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyExportExcel" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TypeInTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MyJunit.testArray" />
-      <item index="5" class="java.lang.String" itemvalue="Tomcat Server.MyServer" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.MyServer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReadProperties" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ExceptionTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyExportExcel" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TypeInTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.MyJunit.testArray" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -958,7 +986,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="958" extended-state="6" />
+    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -966,9 +994,9 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982522" sideWeight="0.49675852" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3612684" sideWeight="0.493517" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982522" sideWeight="0.49756888" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3982522" sideWeight="0.5008104" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -976,15 +1004,15 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.49564135" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17341977" sideWeight="0.6017478" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17341977" sideWeight="0.67290884" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.6017478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35656402" sideWeight="0.6387316" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.360799" sideWeight="0.49675852" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1048,117 +1076,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/exception/MyException.java">
+    <entry file="file://$PROJECT_DIR$/web/uploadFile.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/exception/Exception1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/ReadProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/OperateExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/allBiz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="89" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MyJunit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="49" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
+        <state line="13" column="65" selection-start="335" selection-end="335" vertical-scroll-proportion="-0.7096774">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/servlet/ServletFileUpload.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="180" selection-end="180" vertical-scroll-proportion="0.2631579">
-          <folding />
-        </state>
+        <state line="13" column="26" selection-start="571" selection-end="571" vertical-scroll-proportion="0.35820895" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
+    <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/FileItem.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="38" selection-start="817" selection-end="817" vertical-scroll-proportion="-3.548387">
+        <state line="23" column="9" selection-start="567" selection-end="567" vertical-scroll-proportion="0.476" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/disk/DiskFileItem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="16" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.33242875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="35" selection-start="3714" selection-end="3714" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="21" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/m3repository/commons-io/commons-io/1.4/commons-io-1.4.pom">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="8" selection-start="230" selection-end="230" vertical-scroll-proportion="-6.387097">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="49" selection-start="659" selection-end="659" vertical-scroll-proportion="-14.08">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/ext/ext-all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/js/ext/ext-base-debug.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="47" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/uploadFile.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="65" selection-start="335" selection-end="335" vertical-scroll-proportion="-5.193548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/FileItem.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="12" selection-start="735" selection-end="735" vertical-scroll-proportion="0.71066666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/m3repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/disk/DiskFileItem.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2091" selection-end="2091" vertical-scroll-proportion="-11.04">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="58" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.21655172">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1342073054000" expanded="false" signature="43737:43777" placeholder="..." />
+            <marker date="1342073054000" expanded="false" signature="43791:43804" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="47" selection-start="455" selection-end="455" vertical-scroll-proportion="-4.967742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/ext/css/ext-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="11" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/allBiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="603" selection-end="603" vertical-scroll-proportion="0.5315985">
+          <folding />
         </state>
       </provider>
     </entry>

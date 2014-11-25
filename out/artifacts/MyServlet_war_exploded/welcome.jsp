@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%--<%@ taglib prefix="jawr" uri="http://jawr.net/tags"%>--%>
 <html>
 <head>
     <title>Welcome</title>
@@ -6,36 +7,11 @@
     <%--<script type="text/javascript" src="js/ext/ext-base.js"></script>--%>
     <%--<script type="text/javascript" src="js/ext/ext-all.js"></script>--%>
     <script type="text/javascript" src="./js/allBiz.js"></script>
+    <script type="text/javascript" src="./js/com/oocl/ir4/sps/framework/web/js/commonUI/form/ComboBox.js"></script>
+    <%--<script type="text/javascript" src="./js/index.js"></script>--%>
     <script>
-
         Ext.onReady(function() {
-            var myWin = new Ext.Window({
-                height : 100,
-                width : 100,
-                title : 'Welcome',
-                items : [{
-                    xtype : 'button',
-                    value : 'Test',
-                    text : 'OK!',
-                    handler : function(a, b, c) {
-                        var aaa = 123;
-                    }
-                }]
-            })
-            Ext.Msg.confirm("Really12345","Think again1", function(comp, event) {
-                if(event) {
-                    myWin.show();
-                }
-            })
-//            new Ext.Viewport({
-//                layout : 'fit',
-//                height : 100,
-//                width : 100,
-//                items : [{
-//                    title : '123'
-//                }]
-//            })
-
+            Ext.Msg.alert('aa', 'bb')
         })
     </script>
 </head>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/web/js/com/oocl/ir4/sps/framework/web/js/commonUI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/ext/css/ext-all.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/ext/ext-all-debug.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/ext/ext-all.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/ext/ext-base-debug.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/ext/ext-base.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/require/require.js" charset="UTF-8" />
   </component>
 </project>
