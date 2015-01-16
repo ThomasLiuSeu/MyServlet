@@ -7,6 +7,17 @@
     <groupId>MyServlet</groupId>
     <artifactId>MyServlet</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>findbugs-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 
     <dependencies>
         <dependency>
@@ -48,6 +59,17 @@
             <groupId>net.jawr</groupId>
             <artifactId>jawr</artifactId>
             <version>3.3.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.oocl.ir4.sps</groupId>
+            <artifactId>CommonUtilsAPI</artifactId>
+            <version>1.8.2.006</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>r09_modified</version>
         </dependency>
     </dependencies>
 </project>

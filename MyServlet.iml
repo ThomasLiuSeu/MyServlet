@@ -33,6 +33,7 @@
     <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:1.4" level="project" />
     <orderEntry type="library" name="Maven: net.jawr:jawr:3.3.3" level="project" />
+    <orderEntry type="library" name="Maven: com.oocl.ir4.sps:CommonUtilsAPI:1.8.2.006" level="project" />
   </component>
 </module>
 

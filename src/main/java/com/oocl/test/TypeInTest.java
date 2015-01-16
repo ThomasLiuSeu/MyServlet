@@ -1,5 +1,7 @@
 package com.oocl.test;
 
+import org.junit.Test;
+
 import java.util.Scanner;
 
 /**
@@ -15,5 +17,10 @@ public class TypeInTest {
         while (sc.hasNext()) {
             System.out.println(sc.next());
         }
+    }
+
+    @Test
+    public void randomTest() {
+        System.out.println("Test");
     }
 }

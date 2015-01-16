@@ -1,6 +1,12 @@
+import com.google.common.collect.Lists;
 import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.junit.Test;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
@@ -10,7 +16,7 @@ import org.junit.Test;
  */
 public class MyJunit {
 
-
+    private int num = 1;
 
     @Test
     public void testAssert() {
@@ -29,8 +35,22 @@ public class MyJunit {
 
     @Test
     public void testArray() {
-        String aaa = "123";
-        String[] bbb = aaa.split(";");
-        System.out.println(bbb[1]);
+        String dateStr = "20140702054407.30";
+        Date myDate;
+
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddhhmmss.mmm");
+        SimpleDateFormat sdf2 = new SimpleDateFormat("yyyy年MM月ddhhmmss.mmm");
+        try {
+            myDate = sdf.parse(dateStr);
+            System.out.println(sdf2.format(myDate.toString()));
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void randomTest() {
+        List<String> aaa = Lists.newArrayList("12345", "54321");
+        System.out.println("Result : " + aaa.toString());
     }
 }
