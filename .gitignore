@@ -43,4 +43,4 @@ Temporary Items
 .apdisk
 
 #ignore output file
-/out
+out/
