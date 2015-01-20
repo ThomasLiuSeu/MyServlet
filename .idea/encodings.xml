@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.2.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.3.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.4.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.5.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.6.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.7.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.bg.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/leftaward.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/pagination.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/image/releaseNotes/rightaward.png" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/ext/ext-all-debug.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/ext/ext-all.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/ext/ext-base-debug.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/ext/ext-base.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/js/firstTimeLogin.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/web/js/require/require.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/userGuide.jsp" charset="UTF-8" />
   </component>
 </project>
 

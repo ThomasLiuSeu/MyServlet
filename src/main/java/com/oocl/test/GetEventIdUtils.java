@@ -15,15 +15,15 @@ import java.util.regex.Pattern;
  * Time: 2:51 PM
  */
 public class GetEventIdUtils  {
-    private static String LOG1_PATH = "D://Container Event//1.14//hist//filDebug_1.txt";
-    private static String LOG2_PATH = "D://Container Event//1.14//hist//filDebug_2.txt";
-    private static String OUT_PUT_PATH = "D://Container Event//1.14//0106//0110.txt";
+    private static String LOG1_PATH = "D://Container Event//1.19//hist//filDebug_1.txt";
+    private static String LOG2_PATH = "D://Container Event//1.19//hist//filDebug_2.txt";
+    private static String OUT_PUT_PATH = "D://Container Event//1.19//hist//11-18.txt";
     private static String TEMP_PATH = "D://temp.txt";
     private static String TEMP_OUTPUT_PATH = "D://tempOutput.txt";
     private int sum = 0;
 
     public static void main(String[] args) throws Exception {
-        generateFile("10 Jan");
+        generateFile("1[2-7] Jan");
     }
 
     private static void generateFile (String dateStr) throws Exception {

@@ -12,9 +12,9 @@ import java.util.Set;
  */
 public class Compare {
 
-    private static String FILE1_PATH = "D://Container Event//1.14//0106//0110.txt";
+    private static String FILE1_PATH = "D://Container Event//1.19//hist//11-18.txt";
 
-    private static String FILE2_PATH = "D://Container Event//1.14//0106//0110_shp.txt";
+    private static String FILE2_PATH = "D://Container Event//1.19//hist//11-18_shp.txt";
 
 
     public static void main(String[] args) throws Exception {
@@ -32,7 +32,8 @@ public class Compare {
             setB.add(lineData);
         }
         setB.removeAll(setA);
-        System.out.println(setB);
-        System.out.println("--------------");
+        for (String aaa : setB) {
+            System.out.println("\'" + aaa + "\',");
+        }
     }
 }

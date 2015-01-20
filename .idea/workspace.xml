@@ -12,24 +12,24 @@
     <file path="D:/MYIntelliJ/MyServlet4/web/WEB-INF/web.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1405041808982" ignored="false" />
     <file path="D:/MYIntelliJ/MyServlet4/src/com/oocl/servlet/Filter.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1405041808982" ignored="false" />
     <file path="/MyReverse.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408511810239" ignored="false" />
-    <file path="/a.dummy" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421293378400" ignored="false" />
+    <file path="/a.dummy" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421662697254" ignored="false" />
     <file path="/MyRegex.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408599880360" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/transaction/interfaces/iris/DSCTransaction.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1418613628874" ignored="false" />
     <file path="/DSCTransaction.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413512430097" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/Application/dist/WLS_DOM_SPS/wls_dom_sps/WEB-INF/classes/mifReceiver.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408614516070" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/transaction/interfaces/joedi/JobAckScheduledTask.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408610502492" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_WebServer/Webjar/src/main/java/com/oocl/ir4/sps/web/controller/order/ladenorder/LadenOrderController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1408610502492" ignored="false" />
-    <file path="/Dummy.txt" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421377340373" ignored="false" />
+    <file path="/Dummy.txt" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421718238659" ignored="false" />
     <file path="/pom.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1419923378046" ignored="false" />
     <file path="/MyJunit.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421118685700" ignored="false" />
     <file path="/ReadProperties.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412919273478" ignored="false" />
     <file path="/1.properties" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412911055049" ignored="false" />
     <file path="/welcome.html" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412920819489" ignored="false" />
-    <file path="/welcome.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1416901879744" ignored="false" />
+    <file path="/welcome.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421395203117" ignored="false" />
     <file path="/allBiz.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1413186281571" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/test/java/com/oocl/ir4/sps/service/rest/EECAcceptLevelTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1417576253040" ignored="false" />
     <file path="/EECAcceptLevelTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1417574979581" ignored="false" />
-    <file path="D:/SPS/tms_suppliersystem/SS_AEServer/BizObject/src/test/config/soaProxyConfigurations.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1414024900535" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SS_AEServer/BizObject/src/test/config/soaProxyConfigurations.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421663201326" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/translator/order/OrderInfoTranslator.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412931227161" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/translator/billing/t/TChargeSummaryTranslator.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412931227161" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/rest/userguide/SearchUserGuideResource.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1412932257747" ignored="false" />
@@ -206,13 +206,22 @@
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/War/js/com/oocl/ir4/sps/web/js/finance/FindJobCostRevisionView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421134664813" ignored="false" />
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/War/js/com/oocl/ir4/sps/web/js/order/planning/common/SearchCriteriaPanel.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421134898390" ignored="false" />
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/War/js/com/oocl/ir4/sps/web/js/tbilling/BatchApproveJobView.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421134931641" ignored="false" />
-    <file path="/Compare.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421223975089" ignored="false" />
+    <file path="/Compare.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421647263079" ignored="false" />
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/SS_WEB_Application/dist/WLS_PRS_SPS/wls_prs_sps/userGuide.jsp" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421229593583" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/rest/order/execution/ModifyExecutionResource.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421288995424" ignored="false" />
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/Webjar/src/main/java/com/oocl/ir4/sps/web/controller/report/TJobLateReportController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421314941677" ignored="false" />
     <file path="D:/SPS/tms_suppliersystem/SS_WebServer/Webjar/src/main/java/com/oocl/ir4/sps/web/controller/report/TJobLateReportController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421314261588" ignored="false" />
     <file path="/TJobLateReportController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421314261588" ignored="false" />
     <file path="D:/Gerrit/tms_suppliersystem/SS_WebServer/Webjar/src/main/java/com/oocl/ir4/sps/web/controller/report/NTJobLateReportController.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421314941677" ignored="false" />
+    <file path="/firstTimeLogin.js" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421630155820" ignored="false" />
+    <file path="/SHPEECTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421654177996" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/test/java/com/oocl/ir4/sps/service/rest/order/SHPEECTest.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421723051375" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/Framework/src/main/java/com/oocl/ir4/sps/framework/test/AbstractTestCase.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421653065075" ignored="false" />
+    <file path="/AbstractTestCase.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421653064089" ignored="false" />
+    <file path="/soaProxyConfigurations.xml" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421653289846" ignored="false" />
+    <file path="D:/SPS/tms_suppliersystem/SS_AEServer/ServiceInterface/src/main/java/com/oocl/ir4/sps/service/mif/receiver/convertor/iris/DSCConvertor.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421654146222" ignored="false" />
+    <file path="/DSCConvertor.java" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421654074032" ignored="false" />
+    <file path="/.gitignore" changelist="30384caf-4afd-406c-aa88-fce50f72cfa8" time="1421724178571" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +236,40 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/oocl/test/MyRegex.java" line="277" class="com.oocl.test.MyRegex" package="com.oocl.test">
@@ -440,40 +483,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -487,65 +496,61 @@
       <file leaf-file-name="GetEventIdUtils.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/GetEventIdUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="31" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
+            <state line="25" column="35" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Compare.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Compare.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Compare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.3436754">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#673#681#0" expanded="true" />
-                <element signature="e#723#731#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyFact.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/MyFact.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+            <state line="22" column="70" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadProperties.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/ReadProperties.java">
+      <file leaf-file-name="welcome.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="45" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
+            <state line="3" column="6" selection-start="141" selection-end="141" vertical-scroll-proportion="-2.1290324">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperateExcel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/OperateExcel.java">
+      <file leaf-file-name="sencha.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sencha.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="24" selection-start="705" selection-end="708" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="-7.096774">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UploadServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/UploadServlet.java">
+      <file leaf-file-name="firstTimeLogin.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/firstTimeLogin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="1924" selection-end="1924" vertical-scroll-proportion="0.0">
+            <state line="7" column="35" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyJunit.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MyJunit.java">
+      <file leaf-file-name="userGuide.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/userGuide.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="29" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
+            <state line="9" column="27" selection-start="536" selection-end="536" vertical-scroll-proportion="-1.4691358">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="8" selection-start="522" selection-end="522" vertical-scroll-proportion="0.60258067">
               <folding />
             </state>
           </provider>
@@ -569,10 +574,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/RecordTimeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/qweqw.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/QuickSort2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/asda.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/ThreadExecutor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/ttt.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/fanbin/Thomas.java" />
@@ -583,8 +584,12 @@
         <option value="$PROJECT_DIR$/web/js/regex.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/MyFact.java" />
         <option value="$PROJECT_DIR$/src/test/java/MyJunit.java" />
+        <option value="$PROJECT_DIR$/web/welcome.jsp" />
+        <option value="$PROJECT_DIR$/web/js/firstTimeLogin.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/oocl/test/GetEventIdUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/Compare.java" />
+        <option value="$PROJECT_DIR$/web/userGuide.jsp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -651,10 +656,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -759,91 +764,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="touch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyServlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="releaseNotes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -856,14 +781,14 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="132" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="OverrideImplement.combined" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="132" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="136" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="136" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/MyServlet_war_exploded/WEB-INF/classes/com/oocl/test/exception" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="133" />
@@ -879,8 +804,8 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
@@ -888,19 +813,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.oocl.test.excel" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Code\MyServlet\web\css\ext" />
+      <recent name="D:\Code\MyServlet\web\image\releaseNotes" />
       <recent name="D:\Code\MyServlet\web\js" />
+      <recent name="D:\Code\MyServlet\web" />
+      <recent name="D:\Code\MyServlet\web\css\ext" />
       <recent name="D:\Code\MyServlet\web\js\ext" />
-      <recent name="D:\Code\MyServlet\web\lib\touch" />
-      <recent name="D:\Code\MyServlet\web\js\ext\css" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.oocl.test" />
@@ -912,7 +837,7 @@
       <recent name="D:\Gerrit\MyServlet5\web" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Compare">
+  <component name="RunManager" selected="Tomcat Server.MyServer">
     <configuration default="false" name="GetEecEventId" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1060,6 +985,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1088,19 +1026,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1123,6 +1048,13 @@
       </JSRemoteDebuggerConfigurationSettings>
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1142,13 +1074,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
@@ -1281,7 +1206,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="958" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1295,18 +1220,18 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3250283" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.49564135" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21799028" sideWeight="0.7497169" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958803" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35656402" sideWeight="0.7497169" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25028312" sideWeight="0.49675852" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35656402" sideWeight="0.7503121" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496879" sideWeight="0.49675852" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26840317" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3250283" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1371,40 +1296,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/m3repository/org/apache/maven/plugins/maven-checkstyle-plugin/2.9.1/maven-checkstyle-plugin-2.9.1.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="6" selection-start="10439" selection-end="10439" vertical-scroll-proportion="0.33222592" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="373" selection-end="373" vertical-scroll-proportion="0.24719101">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.35313">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/excel/MyExportExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="65" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.15402567" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.03548387" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/js/regex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="18" selection-start="198" selection-end="198" vertical-scroll-proportion="0.28387097" />
@@ -1417,9 +1308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/ReadProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="45" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="21" column="45" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/OperateExcel.java">
@@ -1438,40 +1327,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/TypeInTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="33" selection-start="323" selection-end="323" vertical-scroll-proportion="0.37562606">
-          <folding />
-        </state>
+        <state line="15" column="33" selection-start="323" selection-end="323" vertical-scroll-proportion="0.37562606" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/MyFact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyJunit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="29" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="36" column="29" selection-start="781" selection-end="781" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oocl/test/GetEventIdUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
+        <state line="25" column="35" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Compare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="414" selection-end="414" vertical-scroll-proportion="0.3436754">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#673#681#0" expanded="true" />
-            <element signature="e#723#731#0" expanded="true" />
-          </folding>
+        <state line="22" column="70" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sencha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="301" selection-end="301" vertical-scroll-proportion="-7.096774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/firstTimeLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="141" selection-end="141" vertical-scroll-proportion="-2.1290324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/image/releaseNotes/RN1.9.0.1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/userGuide.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="536" selection-end="536" vertical-scroll-proportion="-1.4691358">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="8" selection-start="522" selection-end="522" vertical-scroll-proportion="0.60258067">
+          <folding />
         </state>
       </provider>
     </entry>
