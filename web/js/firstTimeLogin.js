@@ -9,15 +9,7 @@ com.oocl.ir4.sps.web.js.firstTimeLogin = Ext.extend(
             this.maximizable = false;
             border : false,
             this.title = 'User Guide';
-            this.isCloseWindowPopupMsg = true;
             this.modal = true;
-            var paramVo = {};
-            paramVo.userId = 123;
-//            this.on('show', function() {
-//                UserGuideController.checkFirstTimeLogin('1234',paramVo,function(result) {
-//                    var bbb = 123;
-//                })
-//            })
             this.items =[];
             this.items.push(this._getPanel());
             com.oocl.ir4.sps.web.js.firstTimeLogin.superclass.initComponent.call(this);

@@ -21,6 +21,10 @@ public class TypeInTest {
 
     @Test
     public void randomTest() {
-        System.out.println("Test");
+        int  a = 24;
+        int  а = 30;
+
+        System.out.println("a=" + (int)a);
+        System.out.println("a=" + (int)а);
     }
 }
