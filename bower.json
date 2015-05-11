@@ -1,0 +1,19 @@
+{
+  "name": "MyServlet",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ThomasLiuSeu/MyServlet",
+  "authors": [
+    "liuth2 <thomas.liu@oocl.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.15"
+  }
+}
